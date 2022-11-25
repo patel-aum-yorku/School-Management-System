@@ -1,0 +1,25 @@
+ "School Money Management System" maintains Students, Teachers and Funds for the school using basic OOPs concepts.
+
+ // Goal is to build a Money management system for school -
+ 1. Keep track of total fees paid by students.
+ 2.Teachers salary.
+
+ //School
+ 1.Teacher.
+ 2.Students.
+ 3.Total money earned.
+ 4.Total money spent(salary of teacher).
+
+ //Teacher
+ 1.Name
+ 2.Id
+ 3.Salary
+
+ //Student
+ 1.Name
+ 2.Id
+ 3.Class
+ 4.Fees paid
+ 5.Total fees
+
+ //
